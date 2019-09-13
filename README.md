@@ -4,7 +4,7 @@ The board will be a 7x6 board and in the example given the inputs comes in a CSV
 
 The board consists of a rectangle of cells that could be occupied by a blue(B) or red(R) tile or empty(X). The winner is the one who has 4 tiles in a row either horizontally, vertically or diagonal.
 
-For example, giving the following board:
+For example, giving the following board (the arrows are just to indicate how the tiles are inserted, but they are not supposed to be in the input):
 
 |↓|↓|↓|↓|↓|↓|↓|
 |-|-|-|-|-|-|-|
