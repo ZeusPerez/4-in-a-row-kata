@@ -6,14 +6,14 @@ The board consists of a rectangle of cells that could be occupied by a blue(B) o
 
 For example, giving the following board:
 
-|↓|↓|↓|↓|↓|↓|
-|-|-|-|-|-|-|
-|X|X|X|B|X|X|
-|X|X|X|B|R|X|
-|X|B|X|R|B|X|
-|X|R|B|R|R|R|
-|B|B|R|B|B|R|
-|R|R|B|B|B|R|
+|↓|↓|↓|↓|↓|↓|↓|
+|-|-|-|-|-|-|-|
+|X|X|X|B|X|X|X|
+|X|X|X|B|R|X|X|
+|X|B|X|R|B|X|X|
+|X|R|B|R|R|R|X|
+|B|B|R|B|B|R|R|
+|R|R|B|B|B|R|B|
 
 With this input we should determine that the winner is BLUE.
 
