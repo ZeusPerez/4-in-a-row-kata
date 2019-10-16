@@ -20,6 +20,6 @@ With this input we should determine that the winner is BLUE.
 
 <details><summary>Did you finish and want an extra requirement? Here you have it:</summary>
   <p>
-   check if the result of a match is valid. For example, it could not be a empty cell bellow a blue or red tile or there are 2 winners or there number of tiles is not according to the turns (|B count - R count| should be 0 or 1)
+   check if the result of a match is valid. For example, it can't have an empty cell bellow a blue or red tile or it can't have 2 winners or the number of tiles is not correct according to the turns (|B count - R count| should be 0 or 1)
   </p>
 </details><br><br>
