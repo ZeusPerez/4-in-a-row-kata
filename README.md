@@ -1,4 +1,6 @@
-This is a kata for returning the result of t 4 in a row match. Given a board, we should determine if the blue wins, the red wins or it is a draw.
+This kata is bases in the [Connect 4 game](https://en.wikipedia.org/wiki/Connect_Four)
+
+The kata consist on returning the result of t 4 in a row match. Given a board, we should determine if the blue wins, the red wins or it is a draw.
 
 The board will be a 7x6 board and in the example given the inputs comes in a CSV format but you can change it.
 
